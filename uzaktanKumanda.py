@@ -168,4 +168,4 @@ while True:
     else:
         print("Çıkış yapılıyor...")
         time.sleep(1)
-        break
+    break

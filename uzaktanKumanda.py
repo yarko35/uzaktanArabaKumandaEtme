@@ -1,7 +1,7 @@
 import random
 import time
 
-
+# made by YAVUZ YARKIN OKULAR
 class anahtar():
     def __init__(self, araba_durum="Durdur", araç_pil="100", pil="0", araç_yakıt="60", yakıt=""):
         self.araba_durum = araba_durum
